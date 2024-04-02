@@ -39,7 +39,7 @@
 
 Here's how:
 * The user then runs the python program.
-* The program prints out instructions for the user, it order to have the needed information.
+* The program prints out instructions for the user, in order to have the needed information to run the program.
 * In a folder, the user should have three files downloaded from Instagram. Followers_1.html, Following.html, Pending_follow_request.html.
 * The user gets prompted to enter their login credentials.
 * The program then sorts out all of their followers, following, and pending follow requests.
