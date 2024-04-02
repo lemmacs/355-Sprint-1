@@ -52,7 +52,7 @@ Originially, we had planned on accessing the Instagram API and have those datas 
 
 ### Built With
 
-                                                     What we used to build this program:
+                                             What we used to build this program:
 
  [![Python][Python]][Python-url]
 
@@ -63,17 +63,17 @@ Originially, we had planned on accessing the Instagram API and have those datas 
 <!-- GETTING STARTED -->
 ## Getting The Data from Instagram
 
-* 1: long into Instagram
+* 1: log into Instagram
 * 2: Navigate to your account page and click the three lines at the top right of your screen.
 ![Product Name Screen Shot][Insta-screenshot]
 * 3: Click the Settings and Privacy
-* 4: Under the Your account section, click Accounts Center
+* 4: Under the "Your account" section, click "Accounts Center".
 * 5: Navigate through the list of options and click "Your information and permissions".
-* 6: Click "Dowload your information"
+* 6: Click "Download your information"
 * 7: Click "Download or transfer information"
 * 8: You should be prompted about how much info you want, so click "Some of your information"
 * 9: When presented with a list of options of datas to choose, click the search bar at the top and type in "Followers"
-* 10: An option called "Fallers and following" should appear in the search, click that and then click save.
+* 10: An option called "Followers and following" should appear in the search, click that and then click save.
 * 11: Click Next and choose where you'd like to have these files downloaded.
 * 12: In the Create files to download page, Select a desired date range, click notify and enter your email you'd like to receive it with, have the format be HTML, and don't change the quality.
 * 13: Click create files and the files should be sent to your email.
