@@ -38,13 +38,13 @@
                   This project utilizes a social media called Instagram and analyzes the data based on each individual's account.
 
 Here's how:
+* In a folder, the user should have the code file and three files downloaded from Instagram. Followers_1.html, Following.html, Pending_follow_request.html.
 * The user then runs the python program.
-* The program prints out instructions for the user, in order to have the needed information to run the program.
-* In a folder, the user should have three files downloaded from Instagram. Followers_1.html, Following.html, Pending_follow_request.html.
+* The program prints out instructions for the user in order to have the needed information to run the program.
 * The user gets prompted to enter their login credentials.
 * The program then sorts out all of their followers, following, and pending follow requests.
 
-Originially, we had planned on accessing the Instagram API and have those datas automatically be applied to the program with just the user needing to enter their login credentials, but unfortunately Instagram has guidelines that wouldn't allow developers to access that data without creating developer accounts and requesting access from the platform, which takes time to approve.
+Originially, we had planned on accessing the Instagram API and have those datas automatically be applied to the program with just the user needing to enter their login credentials, but unfortunately Instagram has guidelines that wouldn't allow developers to access that data without creating developer accounts and requesting access from the platform, which takes time to be approved. We were originally planning to create an extension of Instagram that would show you data that the app itself doesn't provide, such as People that blocked you, people that recently unfollowed you, and people that you followed but never followed you back.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
