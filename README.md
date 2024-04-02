@@ -44,7 +44,7 @@ Here's how:
 * The user gets prompted to enter their login credentials.
 * The program then sorts out all of their followers, following, and pending follow requests.
 
-Originially, we had planned on accessing the Instagram API and have those datas automatically be applied to the program with just the user needing to enter their login credentials, but unfortunately Instagram has guidelines that wouldn't allows developers to access that data without creating developer accounts and requesting access from the platform, which takes time to approve.
+Originially, we had planned on accessing the Instagram API and have those datas automatically be applied to the program with just the user needing to enter their login credentials, but unfortunately Instagram has guidelines that wouldn't allow developers to access that data without creating developer accounts and requesting access from the platform, which takes time to approve.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
